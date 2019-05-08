@@ -22,6 +22,7 @@ public class User
     		System.out.println("5.Account detalis");
     		System.out.println("6.not choice");
     		System.out.println("Enter you choice");
+		system.out.println("Ganesh");
     		
     	    int choice=sc.nextInt();
     	    System.out.println(choice);
